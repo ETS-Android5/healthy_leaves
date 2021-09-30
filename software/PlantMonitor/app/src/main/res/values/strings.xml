@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Healthy Leaves</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">email</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="msg_token_fmt"></string>
+    <string name="msg_subscribed" />
+    <string name="msg_subscribe_failed" />
+
+    <!-- Notification based information TEMPERATURE -->
+    <string name="lowTempTitle">Plant temperature warning.</string>
+    <string name="lowTempBody">The plant\'s temperature is too low! Last value: </string>
+    <string name="highTempTitle">Plant temperature warning.</string>
+    <string name="highTempBody">The plant\'s temperature is too high! Last value: </string>
+
+    <!-- Notification based information LIGHT -->
+    <string name="lowLightTitle">Plant light warning.</string>
+    <string name="lowLightBody">The plant\'s light is too low! Last value: </string>
+    <string name="highLightTitle">Plant light warning.</string>
+    <string name="highLightBody">The plant\'s light is too high! Last value: </string>
+
+    <!-- Notification based information MOISTURE -->
+    <string name="lowMoistureTitle">Plant moisture warning.</string>
+    <string name="lowMoistureBody">The plant\'s moisture is too low! Last value: </string>
+    <string name="highMoistureTitle">Plant moisture warning.</string>
+    <string name="highMoistureBody">The plant\'s moisture is too high! Last value: </string>
+</resources>
